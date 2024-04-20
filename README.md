@@ -340,6 +340,9 @@ public class MainActivity extends AppCompatActivity {
 ![WhatsApp Image 2024-04-08 at 09 13 05_05fda6f0](https://github.com/sabithapaulraj/simplecalculator/assets/118343379/156b8b3d-f9cd-499c-bf1c-ca57821d36e4)
 ![WhatsApp Image 2024-04-08 at 09 13 05_a72f4a77](https://github.com/sabithapaulraj/simplecalculator/assets/118343379/a94100fd-56b7-4f56-94d2-3a77e81cb4cc)
 
+## Working in Android Studio
+![Screenshot 2024-04-20 184128](https://github.com/sabithapaulraj/simplecalculator/assets/118343379/6ee0213f-73b8-4e04-9c79-694df8527230)
+
 
 ## RESULT
 Thus a Simple Android Application develop a program to create simple calculator in Android Studio is developed and executed successfully.
